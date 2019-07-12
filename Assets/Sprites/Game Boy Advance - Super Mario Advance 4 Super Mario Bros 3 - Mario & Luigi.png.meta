@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: a00ccc665a0d63b47819be3a18119659
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_0
+    21300002: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_1
+    21300004: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_2
+    21300006: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_3
+    21300008: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_4
+    21300010: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_5
+    21300012: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_6
+    21300014: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_7
+    21300016: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_8
+    21300018: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_9
+    21300020: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_10
+    21300022: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_11
+    21300024: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_12
+    21300026: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_13
+    21300028: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_14
+    21300030: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_15
+    21300032: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_16
+    21300034: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_17
+    21300036: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_18
+    21300038: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_19
+    21300040: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_20
+    21300042: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_21
+    21300044: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_22
+    21300046: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_23
+    21300048: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_24
+    21300050: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_25
+    21300052: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_26
+    21300054: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_27
+    21300056: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_28
+    21300058: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_29
+    21300060: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_30
+    21300062: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_31
+    21300064: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_32
+    21300066: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_33
+    21300068: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_34
+    21300070: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_35
+    21300072: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_36
+    21300074: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_37
+    21300076: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_38
+    21300078: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_39
+    21300080: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_40
+    21300082: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_41
+    21300084: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_42
+    21300086: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_43
+    21300088: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario
+      & Luigi_44
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 850
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76926913ebee45845bbc0e4f0d4ed7fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 849
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f96ca74ba964418aa1fabad516605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 849
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc3ea166b4c404099cad80535799c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 849
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81e7d2db7ca2d34b8a13e47dfa60b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 849
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3828b19a55fe674fb0b5f26fe0ad1b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 849
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93427ed097dd5e24686ae027ba778585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 850
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b326e81a24a8247a62b91ceaa23524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 849
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85328aac22b034cbacdcddd28c7deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 850
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af29a94237c254eb1f382b26b8de37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 849
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50008bfe9e541e942bfc97ffb8b3f5dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 849
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60717f5daa0a622449dcd6175ea67ac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 850
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71691fad43504546a90b45996f7f28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 821
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdbe65aca15be14481983b141ffd17d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 820
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b934ca0085a104b8c7a57d8b0d716e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 820
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f90b4eda3024b46a5bf6ad27cb658d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 820
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d60171e91472a41a7ed683565fe8b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 821
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af40adb334c41248ad14d9df85e3ec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 823
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b799eacb96adcc4d8097ee3fdd5ff54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 824
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac9a5d181c4154db9cad28c68c3d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 824
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8590415d15644cac449b9dac27871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 824
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22971df6ab137041be6db669ebacb18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 820
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2ff2107bee38c468996dbd0b47afc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 820
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb85e3c92c57e44bad6a027faa76f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 792
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4130d016a7902d4cb1566327a5a77b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 791
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458143988b1bd4a4b9720554aa528910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 783
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc0fa8cfecf2b42b9e3880687de574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 790
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248bcc8c5deec7d49b4145b8153b4d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 791
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf45dc705f9574c8c14886db7945b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 791
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1e36d0728708048b2ee333f6867281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 792
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b70ce4c71d37489224550b177d60b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 791
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82521b4190152bd478f999351b4b6924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 791
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d275a01c2e69944b43a2fd66619960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 791
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065da518bccbf5e4e8e28454099de9ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 791
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8cf4f6a0d1452489ab5d552c49ee7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 791
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874ac7db3a7d604293b9455072dcc05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 758
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3149448b3f3241afdfe340282bde6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 758
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d155f0113d5ef4fb5f23c5a988363d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 758
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d669d935e9e0418bd4d2199f90601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 758
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a107fa6c9ac2435458249457170fe37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 759
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1522aef84e6b551499ae6dde54e64013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 758
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc3220db05663499da54ee12c95069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 758
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ffe43eb1aa95408c0b76de13f1742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 758
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86577c69b5024ba469be996de0925b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 758
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e45252b5b679d24db7fc4c48919fa3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance 4 Super Mario Bros 3 - Mario &
+        Luigi_44
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 758
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2fe5ae8dc254b45972ebb142d215d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1bd39516ecb192f4fbbd5e8da24372b9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
